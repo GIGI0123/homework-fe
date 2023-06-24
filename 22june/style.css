@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+.random{
+    width: 50%;
+    height: 400px;
+    background-color: aqua;
+
+    padding: 30px 5%;
+    margin: 40px 20%;
+    border: 5px solid black;
+    
+}
+

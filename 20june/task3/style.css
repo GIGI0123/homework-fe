@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul,ol {
+    list-style: none;
+}
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container {
+    margin: 20px;
+}
+.table {
+
+}
+.posts {
+
+}
+
+.posts__item {
+    border: 1px solid yellowgreen;
+    padding: 15px 10px;
+    border-radius: 8px;
+    background: teal;
+    color: aliceblue;
+}
+
+.posts.item:nth-child(2) {
+    margin: 10px ;
+}
+.table {
+    background: lightcyan;
+    border: 1px solid black;
+    padding:20px ;
+    margin-top: 20px;
+}
+.thead {
+    margin-top:20px ;
+    background: red;
+    color: white;
+}
+.circle {
+    width: 15px;
+    height: 15px;
+    background: red;
+    border-radius: 50%;
+
+}
+.img img {
+    max-width:  15px;;
+}

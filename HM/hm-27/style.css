@@ -1,0 +1,96 @@
+*  {
+padding: 0;
+margin: 0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu li a {
+    color:#000;
+}
+
+header {
+     background: #1ABC9C;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 15px 70px ;
+}
+
+.menu {
+    display: flex;
+    justify-content:space-between;
+    width: 357px;
+}
+
+.menu li:nth-child(2) {
+    margin: 0 20px;
+}
+
+.icon__container {
+   display: flex;
+}
+
+.icon__container div:nth-child(2) {
+margin: 0 20px;
+}
+.img {
+    max-width: 756px;
+      
+}
+header:nth-child(2) {
+    justify-content: right;
+    display: flex;
+    text-align: center;
+    background: white;
+    
+}
+p {
+color: #000;
+text-align: justify;
+font-size: 20px;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 50px;
+padding-top: 30px;
+max-width: 624px;
+}
+
+h2 {
+    text-align: top;
+}
+header:nth-child(3) {
+    background-color:#DCFFEB;
+    justify-content: space-between;
+    
+}
+.contacts__list {
+    display: flex;
+    justify-content: space-between;
+}
+.contacts__item {
+    width: 315px;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts__item p {
+    text-align: center;
+}
+ .Address {
+    color: azure;
+    padding: 25px 0;
+ }

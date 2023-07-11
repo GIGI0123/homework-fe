@@ -78,6 +78,7 @@ header:nth-child(3) {
 .contacts__list {
     display: flex;
     justify-content: space-between;
+    flex-direction: column-reverse;
 }
 .contacts__item {
     width: 315px;

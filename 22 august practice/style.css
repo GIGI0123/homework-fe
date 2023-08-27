@@ -1,0 +1,23 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .container{
+    margin: 1296px;
+   max-width: 0 auto;
+ 
+ }
+ .icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+ }
+ .header__icons__right {
+ display: flex;
+ justify-content: space-between;
+ gap: 56px;
+ }
+
+ 

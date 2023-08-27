@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    margin: 15px 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.icon__container {
+   max-width: 480px;
+ 
+} 
+.wrapper p {
+    max-width: 466px;
+
+}

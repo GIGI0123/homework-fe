@@ -1,0 +1,24 @@
+* {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.about__left {
+    max-width: 416px;
+}
+.about__left h2 {
+    font-size: 48px;
+    font-style: italic;
+    line-height: 150%;
+}
+.about__left button {
+    padding:0 ;
+    margin: 0;
+
+}
